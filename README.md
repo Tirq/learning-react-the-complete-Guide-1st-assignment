@@ -1,3 +1,6 @@
+Link to see the app running on gh-pages: https://tirq.github.io/learning-react-the-complete-Guide-1st-assignment/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
